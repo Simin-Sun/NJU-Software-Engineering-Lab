@@ -13,9 +13,9 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:background="@android:color/transparent"
-        android:minHeight="24dp"
         android:minWidth="36dp"
-        app:srcCompat="@drawable/disableable_ic_edit_24dp"/>
+        android:minHeight="24dp"
+        app:srcCompat="@drawable/disableable_ic_edit_24dp" />
 
     <com.amaze.filemanager.ui.views.ThemedImageButton
         android:id="@+id/delete"
